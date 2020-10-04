@@ -1,0 +1,14 @@
+body {
+	background-color: #eaeaea; 
+	color: brown;
+	font-family: Arial, sans-serif;
+	font-size: 1.2em;
+	}
+.new {
+	background-color: white;
+	color: black;
+	font-family: Arial, sans-serif;
+}
+.new a {
+	text-decoration: none;
+}
