@@ -1,0 +1,16 @@
+.favorite {
+	font-style: italic;
+	color: red;
+}
+body {
+	background-color: white;
+	color: #000099;
+	font-family: Arial, sans-serif;
+}
+a link {
+	background-color: gray;
+}
+h1 {
+	font-family: "Times New Roman", Times, serif;
+	color: black;
+}
